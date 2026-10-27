@@ -1,1 +1,1 @@
-#yugia.github.io
+#github.io
